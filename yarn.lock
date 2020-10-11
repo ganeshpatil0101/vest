@@ -892,13 +892,6 @@
     pirates "^4.0.0"
     source-map-support "^0.5.16"
 
-"@babel/runtime@^7.11.2":
-  version "7.11.2"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.11.2.tgz#f549c13c754cc40b87644b9fa9f09a6a95fe0736"
-  integrity sha512-TeWkU52so0mPtDcaCTxNBI/IHiz0pZgr8VEFqXFtZWpYD08ZB6FaSwVAS8MKRQAP3bYKiVjwysOJgMFY28o6Tw==
-  dependencies:
-    regenerator-runtime "^0.13.4"
-
 "@babel/runtime@^7.8.4":
   version "7.10.2"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.2.tgz#d103f21f2602497d38348a32e008637d506db839"
@@ -1174,13 +1167,6 @@
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/@lets/wait/-/wait-2.0.2.tgz#ea2e71c8f52e2028355fdec9fcb524d38580f76f"
   integrity sha512-pDxo/Z7sht1jlrgUuwOdTFK2z/Swyfet1HeiuX6ZImx1ns/wAjaVQ1X1QRrG+lhw9gvIOWJKgrNXrmc+6/6hxw==
-
-"@rollup/plugin-alias@^3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@rollup/plugin-alias/-/plugin-alias-3.1.1.tgz#bb96cf37fefeb0a953a6566c284855c7d1cd290c"
-  integrity sha512-hNcQY4bpBUIvxekd26DBPgF7BT4mKVNDF5tBG4Zi+3IgwLxGYRY0itHs9D0oLVwXM5pvJDWJlBQro+au8WaUWw==
-  dependencies:
-    slash "^3.0.0"
 
 "@rollup/plugin-babel@^5.2.1":
   version "5.2.1"
@@ -2110,10 +2096,10 @@ contains-path@^0.1.0:
   resolved "https://registry.yarnpkg.com/contains-path/-/contains-path-0.1.0.tgz#fe8cf184ff6670b6baef01a9d4861a5cbec4120a"
   integrity sha1-/ozxhP9mcLa67wGp1IYaXL7EEgo=
 
-context@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/context/-/context-0.1.0.tgz#07ca05383636b8c35468b26a83da51bb5e4c053f"
-  integrity sha512-anktVA6cG919DOdFLwiDio2mgrdUvXMN/DlLBA1Xv6rtLwZi8eXcUC7QOpB0KcHSUwOnyH9tmhsyXI+rJVzqLg==
+context@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/context/-/context-1.1.0.tgz#1675cfe546b4d8f9925a2c4896a7ee41e917f015"
+  integrity sha512-nfNLy6MbBleZuK0vDwxUnYyu1McpjaZIHo7a3+yNoLWEJtnUjnB4z5xYZhg3XmVcCflh5U2FeaHbHUfCCLSeHA==
 
 convert-source-map@^1.1.0, convert-source-map@^1.4.0, convert-source-map@^1.6.0, convert-source-map@^1.7.0:
   version "1.7.0"
